@@ -6,4 +6,5 @@ let nombre_completo;
 console.log(nombre);
 
 let apellido;
+let animal;
 apellido = "Hidalgo"
