@@ -22,4 +22,3 @@ personaje ["edad"] = 13; //si no conocemos el nombre de la propiedad utilzamos e
 delete personaje.anime;
 
 console.log(personaje);
-
